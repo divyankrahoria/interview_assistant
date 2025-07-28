@@ -1,0 +1,416 @@
+{
+  "week": [
+    {
+      "week_number": 1,
+      "days": [
+        {
+          "day": "Monday",
+          "topic": "Data Analysis with Pandas",
+          "resources": [
+            "Pandas Documentation",
+            "Kaggle Datasets for practice",
+            "Data Wrangling with Pandas - YouTube tutorial"
+          ],
+          "project_milestones": [
+            "Complete 2 datasets analysis using Pandas",
+            "Document findings in a Jupyter Notebook"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Tuesday",
+          "topic": "Data Visualization with Matplotlib & Seaborn",
+          "resources": [
+            "Matplotlib and Seaborn Documentation",
+            "Data Visualization with Python - Coursera",
+            "Python Plotting Tutorial - YouTube"
+          ],
+          "project_milestones": [
+            "Create visualizations for the datasets analyzed",
+            "Prepare a presentation of the visual findings"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Wednesday",
+          "topic": "Statistical Analysis",
+          "resources": [
+            "Statistics with Python - Coursera",
+            "Intro to Statistical Learning - Book",
+            "Statistical tests - YouTube"
+          ],
+          "project_milestones": [
+            "Apply basic statistical tests on datasets",
+            "Summarize insights in a report"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Thursday",
+          "topic": "Machine Learning Basics",
+          "resources": [
+            "Machine Learning by Andrew Ng - Coursera",
+            "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow - Book",
+            "Scikit-Learn Documentation"
+          ],
+          "project_milestones": [
+            "Implement a simple ML model on a dataset",
+            "Evaluate model performance"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Friday",
+          "topic": "Model Evaluation and Validation",
+          "resources": [
+            "Model Evaluation Metrics - YouTube",
+            "Cross-Validation in Scikit-Learn Documentation",
+            "Kaggle Kernels for practical examples"
+          ],
+          "project_milestones": [
+            "Implement cross-validation for the ML model",
+            "Create a report on the evaluation metrics"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Saturday",
+          "topic": "Introduction to Data Engineering",
+          "resources": [
+            "Introduction to Data Engineering - YouTube",
+            "Data Engineering on Google Cloud - Coursera",
+            "ETL process overview articles"
+          ],
+          "project_milestones": [
+            "Understand data pipelines and ETL processes",
+            "Sketch a simple ETL pipeline for a project"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Sunday",
+          "topic": "Review and Practice",
+          "resources": [
+            "Kaggle competitions",
+            "LeetCode for coding practice",
+            "Interview Cake for data science interview questions"
+          ],
+          "project_milestones": [
+            "Complete 2 coding challenges",
+            "Review Week 1 materials"
+          ],
+          "completed": false
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "days": [
+        {
+          "day": "Monday",
+          "topic": "Advanced Machine Learning Techniques",
+          "resources": [
+            "Ensemble Learning - Scikit-Learn documentation",
+            "Feature Engineering - Kaggle course",
+            "Machine Learning Mastery - Blog"
+          ],
+          "project_milestones": [
+            "Implement an ensemble model",
+            "Document feature engineering techniques"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Tuesday",
+          "topic": "Deep Learning Basics",
+          "resources": [
+            "Deep Learning Specialization - Coursera",
+            "TensorFlow Documentation",
+            "Keras Documentation"
+          ],
+          "project_milestones": [
+            "Build a simple neural network",
+            "Train the model on a dataset"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Wednesday",
+          "topic": "Feature Selection and Dimensionality Reduction",
+          "resources": [
+            "PCA explained - YouTube",
+            "Feature Selection techniques - Towards Data Science",
+            "Scikit-Learn's feature selection documentation"
+          ],
+          "project_milestones": [
+            "Implement PCA on a dataset",
+            "Evaluate model performance with and without feature selection"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Thursday",
+          "topic": "SQL for Data Science",
+          "resources": [
+            "SQL for Data Science - Coursera",
+            "LeetCode SQL problems",
+            "W3Schools SQL Tutorial"
+          ],
+          "project_milestones": [
+            "Complete SQL practice exercises",
+            "Write complex queries for data extraction"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Friday",
+          "topic": "Introduction to System Design",
+          "resources": [
+            "System Design Primer - GitHub",
+            "Grokking the System Design Interview - Educative",
+            "System Design course - Udacity"
+          ],
+          "project_milestones": [
+            "Sketch a basic system design for a data pipeline",
+            "Identify key components and technologies"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Saturday",
+          "topic": "Advanced System Design Concepts",
+          "resources": [
+            "Designing Data-Intensive Applications - Book",
+            "YouTube videos on system design patterns",
+            "High Scalability Blog"
+          ],
+          "project_milestones": [
+            "Create a detailed system design for a data-related application",
+            "Prepare a presentation discussing design choices"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Sunday",
+          "topic": "Review and Practice",
+          "resources": [
+            "Kaggle competitions for practice",
+            "LeetCode for coding and SQL practice",
+            "Interview Cake for data science interview questions"
+          ],
+          "project_milestones": [
+            "Complete 2 coding challenges",
+            "Review Week 2 materials"
+          ],
+          "completed": false
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "days": [
+        {
+          "day": "Monday",
+          "topic": "Time Series Analysis",
+          "resources": [
+            "Time Series Analysis with Python - Coursera",
+            "Statsmodels Documentation",
+            "YouTube tutorials on Time Series"
+          ],
+          "project_milestones": [
+            "Analyze a time series dataset",
+            "Implement ARIMA model"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Tuesday",
+          "topic": "Natural Language Processing",
+          "resources": [
+            "Natural Language Processing with Python - Book",
+            "NLTK Documentation",
+            "spaCy Documentation"
+          ],
+          "project_milestones": [
+            "Complete a sentiment analysis project",
+            "Document the NLP techniques used"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Wednesday",
+          "topic": "Data Versioning and Experiment Tracking",
+          "resources": [
+            "DVC Documentation",
+            "Weights & Biases documentation",
+            "MLflow documentation"
+          ],
+          "project_milestones": [
+            "Set up DVC for a project",
+            "Track experiments using MLflow"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Thursday",
+          "topic": "Big Data Technologies",
+          "resources": [
+            "Introduction to Big Data - Coursera",
+            "Apache Spark Documentation",
+            "Hadoop Overview articles"
+          ],
+          "project_milestones": [
+            "Implement a simple Spark job",
+            "Understand Hadoop ecosystem components"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Friday",
+          "topic": "Review System Design Concepts",
+          "resources": [
+            "System Design Primer - GitHub",
+            "Grokking the System Design Interview - Educative",
+            "System Design interview questions - Glassdoor"
+          ],
+          "project_milestones": [
+            "Practice system design interview questions",
+            "Create a system design for a real-world application"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Saturday",
+          "topic": "Mock Interviews",
+          "resources": [
+            "Pramp for mock interviews",
+            "Interviewing.io for mock interviews",
+            "LeetCode for coding practice"
+          ],
+          "project_milestones": [
+            "Complete 2 mock interviews",
+            "Gather feedback and areas for improvement"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Sunday",
+          "topic": "Review and Practice",
+          "resources": [
+            "Kaggle competitions for practice",
+            "LeetCode for coding and SQL practice",
+            "Interview Cake for data science interview questions"
+          ],
+          "project_milestones": [
+            "Complete 2 coding challenges",
+            "Review Week 3 materials"
+          ],
+          "completed": false
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "days": [
+        {
+          "day": "Monday",
+          "topic": "Capstone Project Work",
+          "resources": [
+            "Selected dataset for capstone project",
+            "Project planning tools (Trello, Asana)",
+            "GitHub for version control"
+          ],
+          "project_milestones": [
+            "Define project scope and objectives",
+            "Set up project repository"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Tuesday",
+          "topic": "Capstone Project Work",
+          "resources": [
+            "Selected dataset for capstone project",
+            "Project planning tools (Trello, Asana)",
+            "GitHub for version control"
+          ],
+          "project_milestones": [
+            "Complete data cleaning and preprocessing",
+            "Document preprocessing steps"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Wednesday",
+          "topic": "Capstone Project Work",
+          "resources": [
+            "Selected dataset for capstone project",
+            "Project planning tools (Trello, Asana)",
+            "GitHub for version control"
+          ],
+          "project_milestones": [
+            "Implement initial ML model",
+            "Evaluate model and document results"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Thursday",
+          "topic": "Capstone Project Work",
+          "resources": [
+            "Selected dataset for capstone project",
+            "Project planning tools (Trello, Asana)",
+            "GitHub for version control"
+          ],
+          "project_milestones": [
+            "Refine model and perform hyperparameter tuning",
+            "Create report on model performance"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Friday",
+          "topic": "Capstone Project Work",
+          "resources": [
+            "Selected dataset for capstone project",
+            "Project planning tools (Trello, Asana)",
+            "GitHub for version control"
+          ],
+          "project_milestones": [
+            "Prepare final project presentation",
+            "Share project on GitHub"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Saturday",
+          "topic": "Final Review and Practice",
+          "resources": [
+            "Kaggle competitions for practice",
+            "LeetCode for coding and SQL practice",
+            "Interview Cake for data science interview questions"
+          ],
+          "project_milestones": [
+            "Complete 2 coding challenges",
+            "Review Week 4 materials"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Sunday",
+          "topic": "Interview Preparation and Relaxation",
+          "resources": [
+            "LeetCode for coding practice",
+            "Mock interview platforms",
+            "Relaxation techniques"
+          ],
+          "project_milestones": [
+            "Finalize preparation materials",
+            "Relax and prepare mentally for interviews"
+          ],
+          "completed": false
+        }
+      ]
+    }
+  ]
+}

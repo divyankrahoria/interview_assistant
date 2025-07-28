@@ -1,0 +1,422 @@
+{
+  "id": "676d2ba3-82f8-48c1-b50c-ccd1d1183c27",
+  "name": "My Study Plan 1",
+  "role": "Data Scientist",
+  "timeline_weeks": 4,
+  "skills": "Intermediate Python; weak in system design",
+  "created_at": "2025-07-27T04:17:06.080305",
+  "week": [
+    {
+      "week_number": 1,
+      "days": [
+        {
+          "day": "Monday",
+          "topic": "Data Cleaning and Preprocessing",
+          "resources": [
+            "Pandas Documentation",
+            "Kaggle Data Cleaning Course",
+            "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"
+          ],
+          "project_milestones": [
+            "Complete one data cleaning project from Kaggle",
+            "Document cleaning steps and challenges faced"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Tuesday",
+          "topic": "Exploratory Data Analysis (EDA)",
+          "resources": [
+            "Pandas Profiling Documentation",
+            "Seaborn Documentation",
+            "Data Visualization with Python by IBM"
+          ],
+          "project_milestones": [
+            "Conduct EDA on a chosen dataset",
+            "Create visualizations to present findings"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Wednesday",
+          "topic": "Statistical Analysis",
+          "resources": [
+            "Statistical Inference for Data Science (online course)",
+            "Think Stats book",
+            "Khan Academy - Statistics and Probability"
+          ],
+          "project_milestones": [
+            "Perform statistical tests on EDA findings",
+            "Summarize insights in a report"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Thursday",
+          "topic": "Machine Learning Basics",
+          "resources": [
+            "Scikit-Learn Documentation",
+            "Hands-On Machine Learning book (Chapters on ML basics)",
+            "Coursera - Machine Learning by Andrew Ng"
+          ],
+          "project_milestones": [
+            "Build a simple regression model",
+            "Evaluate model performance"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Friday",
+          "topic": "Feature Engineering",
+          "resources": [
+            "Feature Engineering for Machine Learning (book)",
+            "Kaggle Kernels on Feature Engineering",
+            "Towards Data Science articles"
+          ],
+          "project_milestones": [
+            "Implement feature engineering on the dataset used",
+            "Compare model performance with and without engineered features"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Saturday",
+          "topic": "Model Selection and Tuning",
+          "resources": [
+            "Scikit-Learn Documentation on GridSearchCV",
+            "Kaggle - Model Tuning Techniques",
+            "Hands-On Machine Learning book (Chapters on tuning)"
+          ],
+          "project_milestones": [
+            "Tune hyperparameters for the regression model",
+            "Document tuning process and results"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Sunday",
+          "topic": "Review and Prepare for Next Week",
+          "resources": [
+            "Review notes from the week",
+            "Data Science interview questions",
+            "LeetCode - Data Structure and Algorithm Practice"
+          ],
+          "project_milestones": [
+            "Summarize what was learned",
+            "Prepare for system design next week"
+          ],
+          "completed": false
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "days": [
+        {
+          "day": "Monday",
+          "topic": "Introduction to System Design",
+          "resources": [
+            "System Design Primer on GitHub",
+            "Designing Data-Intensive Applications (book)",
+            "Grokking System Design Interviews (online course)"
+          ],
+          "project_milestones": [
+            "Read introductory materials",
+            "Summarize key concepts"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Tuesday",
+          "topic": "Data Storage Solutions",
+          "resources": [
+            "Database Management Systems (book)",
+            "MongoDB Documentation",
+            "PostgreSQL Documentation"
+          ],
+          "project_milestones": [
+            "Design a simple database schema for a project",
+            "Implement the schema in a local database"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Wednesday",
+          "topic": "Scalable Systems and APIs",
+          "resources": [
+            "Building Microservices (book)",
+            "REST API Design Guidelines",
+            "YouTube - System Design Concepts"
+          ],
+          "project_milestones": [
+            "Design a RESTful API for a data service",
+            "Create documentation for the API"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Thursday",
+          "topic": "Data Pipelines",
+          "resources": [
+            "Introduction to Data Engineering (online course)",
+            "Apache Airflow Documentation",
+            "Data Pipeline Architecture articles"
+          ],
+          "project_milestones": [
+            "Sketch a data pipeline for a sample project",
+            "Identify tools and technologies needed"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Friday",
+          "topic": "Distributed Systems",
+          "resources": [
+            "Designing Data-Intensive Applications (selected chapters)",
+            "Distributed Systems for Fun and Profit (book)",
+            "YouTube - Distributed Systems Concepts"
+          ],
+          "project_milestones": [
+            "Write a brief on distributed system design principles",
+            "Prepare to discuss in interviews"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Saturday",
+          "topic": "Real-World System Design Case Studies",
+          "resources": [
+            "System Design Interviews Exposed (book)",
+            "YouTube - Real World System Design",
+            "Grokking the System Design Interview (platform)"
+          ],
+          "project_milestones": [
+            "Analyze a case study of a popular system",
+            "Present findings and design choices"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Sunday",
+          "topic": "Review and Mock Interviews",
+          "resources": [
+            "Practice system design questions",
+            "Interviewing.io for mock interviews",
+            "LeetCode for algorithm practice"
+          ],
+          "project_milestones": [
+            "Conduct a mock system design interview",
+            "Gather feedback for improvement"
+          ],
+          "completed": false
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "days": [
+        {
+          "day": "Monday",
+          "topic": "Advanced Machine Learning Techniques",
+          "resources": [
+            "Hands-On Machine Learning book (Chapters on advanced ML)",
+            "Kaggle Competitions",
+            "Fast.ai Course"
+          ],
+          "project_milestones": [
+            "Build a project using advanced techniques (e.g., ensemble methods)",
+            "Document results"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Tuesday",
+          "topic": "Deep Learning Fundamentals",
+          "resources": [
+            "Deep Learning with Python (book)",
+            "TensorFlow Documentation",
+            "PyTorch Documentation"
+          ],
+          "project_milestones": [
+            "Implement a basic neural network",
+            "Evaluate its performance on a dataset"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Wednesday",
+          "topic": "Natural Language Processing (NLP)",
+          "resources": [
+            "Natural Language Processing with Python (book)",
+            "spaCy Documentation",
+            "Kaggle NLP Competitions"
+          ],
+          "project_milestones": [
+            "Complete an NLP project",
+            "Summarize techniques used"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Thursday",
+          "topic": "Time Series Analysis",
+          "resources": [
+            "Time Series Analysis with Python (book)",
+            "pandas Documentation on Time Series",
+            "Kaggle Time Series Competitions"
+          ],
+          "project_milestones": [
+            "Implement a time series forecasting model",
+            "Document findings and performance"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Friday",
+          "topic": "Model Deployment",
+          "resources": [
+            "Flask Documentation",
+            "Docker Documentation",
+            "Heroku Documentation"
+          ],
+          "project_milestones": [
+            "Deploy a machine learning model as a web service",
+            "Create a simple front-end to interact with it"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Saturday",
+          "topic": "Preparing for Behavioral Questions",
+          "resources": [
+            "Cracking the Coding Interview (Behavioral section)",
+            "The STAR Method for Interviews",
+            "YouTube - Behavioral Interview Tips"
+          ],
+          "project_milestones": [
+            "Prepare answers for common behavioral questions",
+            "Practice with a friend"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Sunday",
+          "topic": "Review and Finalize Projects",
+          "resources": [
+            "Review all projects completed",
+            "Prepare a portfolio",
+            "Mock interviews for data science positions"
+          ],
+          "project_milestones": [
+            "Finalize portfolio presentation",
+            "Share with peers for feedback"
+          ],
+          "completed": false
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "days": [
+        {
+          "day": "Monday",
+          "topic": "Final System Design Review",
+          "resources": [
+            "Review notes from previous weeks",
+            "System Design Interview Questions",
+            "YouTube - System Design Best Practices"
+          ],
+          "project_milestones": [
+            "Prepare a complete system design",
+            "Get feedback from peers"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Tuesday",
+          "topic": "Mock Interviews (Technical and Behavioral)",
+          "resources": [
+            "Interviewing.io",
+            "Pramp for mock interviews",
+            "LeetCode for coding practice"
+          ],
+          "project_milestones": [
+            "Complete at least 2 mock interviews",
+            "Gather feedback for improvement"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Wednesday",
+          "topic": "Review and Reflect",
+          "resources": [
+            "Revisit challenging topics",
+            "Update resume and LinkedIn profile",
+            "Prepare for specific interviews scheduled"
+          ],
+          "project_milestones": [
+            "Final polishing of resume",
+            "Document lessons learned from mock interviews"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Thursday",
+          "topic": "Networking and Job Search Strategies",
+          "resources": [
+            "LinkedIn Networking Tips",
+            "How to Ace Your Data Science Interview",
+            "GitHub for showcasing projects"
+          ],
+          "project_milestones": [
+            "Connect with professionals in the field",
+            "Apply to at least 5 jobs"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Friday",
+          "topic": "Final Preparations for Interviews",
+          "resources": [
+            "Review common interview questions",
+            "Study company-specific interview processes",
+            "Practice explaining projects"
+          ],
+          "project_milestones": [
+            "Create a checklist for interview day",
+            "Ensure all materials are ready"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Saturday",
+          "topic": "Relax and Recharge",
+          "resources": [
+            "Meditation apps",
+            "Light reading on data science topics",
+            "Exercise or outdoor activity"
+          ],
+          "project_mestones": [
+            "Ensure mental well-being",
+            "Reflect on the preparation journey"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Sunday",
+          "topic": "Interview Day",
+          "resources": [
+            "Prepare a quiet space",
+            "Have a glass of water and a notepad ready",
+            "Practice deep breathing"
+          ],
+          "project_milestones": [
+            "Attend scheduled interviews",
+            "Reflect on performance afterward"
+          ],
+          "completed": false
+        }
+      ]
+    }
+  ]
+}

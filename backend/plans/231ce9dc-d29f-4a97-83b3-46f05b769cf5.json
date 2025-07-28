@@ -1,0 +1,478 @@
+{
+  "id": "231ce9dc-d29f-4a97-83b3-46f05b769cf5",
+  "name": "My Study Plan",
+  "role": "Data Scientist",
+  "timeline_weeks": 4,
+  "skills": "Intermediate Python; weak in system design",
+  "created_at": "2025-07-27T06:19:10.520475",
+  "week": [
+    {
+      "week_number": 1,
+      "days": [
+        {
+          "day": "Monday",
+          "topic": "Data Analysis with Pandas",
+          "resources": [
+            "https://pandas.pydata.org/docs/",
+            "https://www.reddit.com/r/learnpython/comments/xj5l2i/how_to_understand_the_pandas_documentation/",
+            "https://pandas.pydata.org/docs/user_guide/index.html",
+            "https://www.kaggle.com/datasets",
+            "https://datasetsearch.research.google.com/",
+            "https://www.kaggle.com/datasets?fileType=csv"
+          ],
+          "project_milestones": [
+            "Complete data cleaning project"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Tuesday",
+          "topic": "Data Visualization with Matplotlib/Seaborn",
+          "resources": [
+            "https://matplotlib.org/stable/index.html",
+            "https://www.reddit.com/r/learnpython/comments/1f6tqkx/why_is_the_matplotlib_documentation_so_terrible/",
+            "https://matplotlib.org/stable/users/index.html",
+            "https://seaborn.pydata.org/",
+            "https://pypi.org/project/seaborn/",
+            "https://seaborn.pydata.org/examples/index.html"
+          ],
+          "project_milestones": [
+            "Create visualizations for cleaned dataset"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Wednesday",
+          "topic": "Statistics for Data Science",
+          "resources": [
+            "https://www.openintro.org/book/os/",
+            "https://open.umn.edu/opentextbooks/textbooks/60",
+            "https://www.openintro.org/stat/",
+            "https://www.khanacademy.org/math/statistics-probability",
+            "https://www.youtube.com/playlist?list=PL1328115D3D8A2566",
+            "https://www.khanacademy.org/math/ap-statistics"
+          ],
+          "project_milestones": [
+            "Compile statistical analysis report"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Thursday",
+          "topic": "Feature Engineering",
+          "resources": [
+            "https://www.oreilly.com/library/view/feature-engineering-for/9781491953235/",
+            "https://www.ibm.com/think/topics/feature-engineering",
+            "https://www.geeksforgeeks.org/machine-learning/what-is-feature-engineering/",
+            "https://towardsdatascience.com/",
+            "https://www.reddit.com/r/learnmachinelearning/comments/ja78o7/how_to_read_towardsdatascience_articles_for_free/",
+            "https://towardsdatascience.com/my-medium-journey-as-a-data-scientist-6-months-18-articles-and-3-000-followers-c449306e45f7/"
+          ],
+          "project_milestones": [
+            "Develop new features for dataset"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Friday",
+          "topic": "Exploratory Data Analysis (EDA)",
+          "resources": [
+            "https://jakevdp.github.io/PythonDataScienceHandbook/",
+            "https://github.com/jakevdp/PythonDataScienceHandbook",
+            "https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057",
+            "https://www.kaggle.com/code/imoore/intro-to-exploratory-data-analysis-eda-in-python",
+            "https://medium.com/kaggle-blog/profiling-top-kagglers-martin-henze-aka-heads-or-tails-worlds-first-kernels-grandmaster-b158421f70dc",
+            "https://www.kaggle.com/code/vbmokin/eda-for-tabular-data-advanced-techniques"
+          ],
+          "project_milestones": [
+            "Complete EDA report on dataset"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Saturday",
+          "topic": "Machine Learning Algorithms Overview",
+          "resources": [
+            "https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646",
+            "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/",
+            "https://www.reddit.com/r/MachineLearning/comments/r9latm/d_thoughts_on_handson_machine_learning_with/",
+            "https://scikit-learn.org/",
+            "https://github.com/scikit-learn/scikit-learn",
+            "https://scikit-learn.org/0.21/documentation.html"
+          ],
+          "project_milestones": [
+            "Select algorithms for project"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Sunday",
+          "topic": "Review and Practice",
+          "resources": [
+            "https://leetcode.com/",
+            "https://www.reddit.com/r/learnprogramming/comments/1kwbj94/leetcode_is_not_for_the_majority_of_software/",
+            "https://leetcode.com/problemset/",
+            "https://www.hackerrank.com/",
+            "https://www.reddit.com/r/Python/comments/800ryy/is_it_just_me_or_is_hackerrank_atrocious/",
+            "https://www.hackerrank.com/domains/python"
+          ],
+          "project_milestones": [
+            "Complete 5 algorithm challenges"
+          ],
+          "completed": false
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "days": [
+        {
+          "day": "Monday",
+          "topic": "Supervised Learning",
+          "resources": [
+            "https://www.coursera.org/learn/machine-learning",
+            "https://www.reddit.com/r/learnmachinelearning/comments/18wp0kq/how_timeintensive_is_courseras_machine_learning/",
+            "https://www.coursera.org/courses?query=machine%20learning&skills=Machine%20Learning",
+            "https://scikit-learn.org/",
+            "https://github.com/scikit-learn/scikit-learn",
+            "https://scikit-learn.org/0.21/documentation.html"
+          ],
+          "project_milestones": [
+            "Implement regression model"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Tuesday",
+          "topic": "Unsupervised Learning",
+          "resources": [
+            "https://www.deeplearningbook.org/",
+            "https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618",
+            "https://d2l.ai/",
+            "https://www.kaggle.com/competitions",
+            "https://www.reddit.com/r/MachineLearning/comments/1fkde5a/d_kaggle_competitions_get_owned_by_ai_agents/",
+            "https://www.kaggle.com/getting-started/44088"
+          ],
+          "project_milestones": [
+            "Implement clustering model"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Wednesday",
+          "topic": "Model Evaluation Metrics",
+          "resources": [
+            "https://www.statlearning.com/",
+            "https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370",
+            "https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf",
+            "https://towardsdatascience.com/",
+            "https://www.reddit.com/r/learnmachinelearning/comments/ja78o7/how_to_read_towardsdatascience_articles_for_free/",
+            "https://towardsdatascience.com/my-medium-journey-as-a-data-scientist-6-months-18-articles-and-3-000-followers-c449306e45f7/"
+          ],
+          "project_milestones": [
+            "Evaluate model performance"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Thursday",
+          "topic": "Hyperparameter Tuning",
+          "resources": [
+            "https://scikit-learn.org/",
+            "https://github.com/scikit-learn/scikit-learn",
+            "https://scikit-learn.org/0.21/documentation.html",
+            "https://www.kaggle.com/code",
+            "https://medium.com/data-science/introduction-to-kaggle-kernels-2ad754ebf77",
+            "https://www.kaggle.com/docs/notebooks"
+          ],
+          "project_milestones": [
+            "Optimize model parameters"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Friday",
+          "topic": "Time Series Analysis",
+          "resources": [
+            "https://www.reddit.com/r/statistics/comments/maqcr0/q_up_to_date_booksresources_to_learn_practical/",
+            "https://otexts.com/fpp2/",
+            "https://stats.stackexchange.com/questions/20514/books-for-self-studying-time-series-analysis",
+            "https://www.kaggle.com/datasets/shenba/time-series-datasets",
+            "https://www.reddit.com/r/MachineLearning/comments/swraqr/time_series_dataset_for_playing_around_d/",
+            "https://www.kaggle.com/datasets?search=time+series"
+          ],
+          "project_milestones": [
+            "Implement time series forecasting"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Saturday",
+          "topic": "Model Deployment Basics",
+          "resources": [
+            "https://flask.palletsprojects.com/",
+            "https://www.reddit.com/r/flask/comments/6qxs3s/is_flask_documentation_enough/",
+            "https://flask.palletsprojects.com/en/stable/quickstart/",
+            "https://devcenter.heroku.com/categories/reference",
+            "https://www.heroku.com/",
+            "https://devcenter.heroku.com/"
+          ],
+          "project_milestones": [
+            "Prepare model for deployment"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Sunday",
+          "topic": "Review and Practice",
+          "resources": [
+            "https://www.kaggle.com/competitions",
+            "https://www.reddit.com/r/MachineLearning/comments/1fkde5a/d_kaggle_competitions_get_owned_by_ai_agents/",
+            "https://www.kaggle.com/getting-started/44088",
+            "https://leetcode.com/",
+            "https://www.reddit.com/r/learnprogramming/comments/1kwbj94/leetcode_is_not_for_the_majority_of_software/",
+            "https://leetcode.com/problemset/"
+          ],
+          "project_milestones": [
+            "Complete 5 data science challenges"
+          ],
+          "completed": false
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "days": [
+        {
+          "day": "Monday",
+          "topic": "Introduction to System Design",
+          "resources": [
+            "https://github.com/donnemartin/system-design-primer",
+            "https://www.reddit.com/r/cscareerquestions/comments/5z4kkk/the_system_design_primer_prep_for_the_system/",
+            "https://systemdesignschool.io/primer",
+            "https://www.reddit.com/r/leetcode/comments/zyb0wz/is_grokking_system_design_worth_it/",
+            "https://www.educative.io/courses/grokking-the-system-design-interview",
+            "https://www.designgurus.io/course/grokking-the-system-design-interview"
+          ],
+          "project_milestones": [
+            "Understand basic system design concepts"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Tuesday",
+          "topic": "Data Infrastructure & Pipelines",
+          "resources": [
+            "https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321",
+            "https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/",
+            "https://www.reddit.com/r/dataengineering/comments/y9ujpz/just_picked_up_the_book_designing_data_intensive/",
+            "https://kafka.apache.org/documentation/",
+            "https://docs.confluent.io/kafka/introduction.html",
+            "https://kafka.apache.org/intro"
+          ],
+          "project_milestones": [
+            "Sketch a data pipeline architecture"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Wednesday",
+          "topic": "APIs and Data Retrieval",
+          "resources": [
+            "https://flask-restful.readthedocs.io/",
+            "https://github.com/flask-restful/flask-restful",
+            "https://medium.com/@dennisivy/flask-restful-crud-api-c13c7d82c6e5",
+            "https://www.postman.com/",
+            "https://learning.postman.com/",
+            "https://www.postman.com/downloads/"
+          ],
+          "project_milestones": [
+            "Create a simple API for model"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Thursday",
+          "topic": "Big Data Technologies Overview",
+          "resources": [
+            "https://hadoop.apache.org/docs/current/",
+            "https://spark.apache.org/docs/latest/",
+            "https://hadoop.apache.org/",
+            "https://spark.apache.org/docs/latest/",
+            "https://spark.lucko.me/docs/",
+            "https://spark.apache.org/documentation.html"
+          ],
+          "project_milestones": [
+            "Research big data tools"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Friday",
+          "topic": "Data Governance and Ethics",
+          "resources": [
+            "https://www.amazon.com/Data-Ethics-Strategies-Implementing-Information/dp/1398610275",
+            "https://litwinbooks.com/books/ethics-in-linked-data/",
+            "https://www.goodreads.com/list/show/177228.Data_Ethics_Society",
+            "https://gdpr.eu/",
+            "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en",
+            "https://gdpr-info.eu/"
+          ],
+          "project_milestones": [
+            "Draft a data governance policy"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Saturday",
+          "topic": "Real-time Data Processing",
+          "resources": [
+            "https://kafka.apache.org/documentation/",
+            "https://docs.confluent.io/kafka/introduction.html",
+            "https://kafka.apache.org/intro",
+            "https://www.confluent.io/blog/chess-analogy-stream-processing/",
+            "https://www.infoq.com/articles/netflix-migrating-stream-processing/",
+            "https://www.sas.com/en_us/insights/articles/big-data/3-things-about-event-stream-processing.html"
+          ],
+          "project_milestones": [
+            "Implement a simple streaming application"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Sunday",
+          "topic": "Review and Practice",
+          "resources": [
+            "https://leetdesign.com/",
+            "https://www.reddit.com/r/leetcode/comments/1b526ci/practice_system_design_problems_like_you_practice/",
+            "https://igotanoffer.com/blogs/tech/system-design-interviews",
+            "https://leetcode.com/",
+            "https://www.reddit.com/r/learnprogramming/comments/1kwbj94/leetcode_is_not_for_the_majority_of_software/",
+            "https://leetcode.com/problemset/"
+          ],
+          "project_milestones": [
+            "Complete system design practice"
+          ],
+          "completed": false
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "days": [
+        {
+          "day": "Monday",
+          "topic": "Mock Interviews Preparation",
+          "resources": [
+            "https://www.pramp.com/",
+            "https://www.reddit.com/r/leetcode/comments/1d29tdq/pramp_mock_interview/",
+            "https://dev.to/lico/mock-interview-platform-pramp-review-h7a",
+            "https://interviewing.io/",
+            "https://www.reddit.com/r/leetcode/comments/15whloj/has_anyone_had_a_mock_interview_with_interviewio/",
+            "https://interviewing.io/blog/resumes-suck-heres-the-data"
+          ],
+          "project_milestones": [
+            "Schedule two mock interviews"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Tuesday",
+          "topic": "Behavioral Interview Questions",
+          "resources": [
+            "https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850",
+            "https://www.reddit.com/r/leetcode/comments/y7fk15/for_those_who_have_read_cracking_the_coding/",
+            "https://www.crackingthecodinginterview.com/",
+            "https://www.glassdoor.com/index.htm",
+            "https://play.google.com/store/apps/details?id=com.glassdoor.app&hl=en_US",
+            "https://www.glassdoor.com/Reviews/index.htm"
+          ],
+          "project_milestones": [
+            "Prepare answers for 10 behavioral questions"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Wednesday",
+          "topic": "Final Project Refinement",
+          "resources": [
+            "https://github.com/",
+            "https://pages.github.com/",
+            "https://github.com/login",
+            "https://www.projectmanager.com/blog/great-project-documentation",
+            "https://document360.com/blog/project-documentation/",
+            "https://learn.microsoft.com/en-us/project/"
+          ],
+          "project_milestones": [
+            "Finalize project presentation"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Thursday",
+          "topic": "Networking and Job Applications",
+          "resources": [
+            "https://www.linkedin.com/",
+            "https://play.google.com/store/apps/details?id=com.linkedin.android&hl=en_US",
+            "https://www.linkedin.com/jobs",
+            "https://www.meetup.com/",
+            "https://play.google.com/store/apps/details?id=com.meetup&hl=en_US",
+            "https://www.meetup.com/login/"
+          ],
+          "project_milestones": [
+            "Apply to 5 jobs"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Friday",
+          "topic": "Interview Day Preparation",
+          "resources": [
+            "https://sdlab.fas.harvard.edu/mindfulness-apps",
+            "https://www.nytimes.com/wirecutter/reviews/best-meditation-apps/",
+            "https://www.reddit.com/r/Mindfulness/comments/169rt8h/whats_your_favorite_mindfulness_apps_and_resources/",
+            "https://careerdevelopment.princeton.edu/sites/g/files/toruqf1041/files/media/interview_guide_5.pdf",
+            "https://interviewguide.dev/",
+            "https://www.reddit.com/r/coolguides/comments/1bvbta3/a_cool_guide_to_interview_for_jobs/"
+          ],
+          "project_milestones": [
+            "Prepare interview kit"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Saturday",
+          "topic": "Relax and Reflect",
+          "resources": [
+            "https://www.nytimes.com/wirecutter/reviews/best-meditation-apps/",
+            "https://www.verywellmind.com/best-meditation-apps-4767322",
+            "https://www.reddit.com/r/Meditation/comments/14ihf23/best_meditation_app/",
+            "https://penzu.com/",
+            "https://www.youtube.com/@mypersonaljournal",
+            "https://www.reddit.com/r/BasicBulletJournals/comments/11ddon7/how_to_combine_work_and_personal_in_a_single/"
+          ],
+          "project_milestones": [
+            "Reflect on learning journey"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Sunday",
+          "topic": "Final Review",
+          "resources": [
+            "https://www.reddit.com/r/GroundedGame/comments/udoqz3/i_moved_all_my_resources_to_a_new_base_and/",
+            "https://dor.mo.gov/motor-vehicle/additional-help-resources.html",
+            "https://www.reddit.com/r/APStudents/comments/18nxajd/all_the_past_exams_and_resources_i_have_found_so/",
+            "https://intrico.io/interview-best-practices/giving-mock-interview-feedback",
+            "https://www.reddit.com/r/ExperiencedDevs/comments/13e7ou5/mock_interviews_coaching_worth_it/",
+            "https://www.hibob.com/blog/interview-feedback-examples/"
+          ],
+          "project_milestones": [
+            "Conduct final review of all topics"
+          ],
+          "completed": false
+        }
+      ]
+    }
+  ]
+}
