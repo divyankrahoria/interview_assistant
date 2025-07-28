@@ -1,0 +1,786 @@
+{
+  "id": "dc344bf9-a9a6-4f0b-ac44-e59528730d36",
+  "name": "My Study Plan",
+  "role": "Machine Learning Engineer at Meta",
+  "timeline_weeks": 4,
+  "skills": "Intermediate Python; weak in system design",
+  "created_at": "2025-07-28T19:08:15.623887",
+  "week": [
+    {
+      "week_number": 1,
+      "days": [
+        {
+          "day": "Monday",
+          "topic": "Introduction to Machine Learning",
+          "resources": [
+            {
+              "title": "Coursera - Machine Learning by Andrew Ng",
+              "links": [
+                "https://www.coursera.org/collections/machine-learning",
+                "https://www.reddit.com/r/learnmachinelearning/comments/18md5sm/is_working_through_andrew_ngs_coursera_course/",
+                "https://www.coursera.org/specializations/machine-learning-introduction"
+              ]
+            },
+            {
+              "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+              "links": [
+                "https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646",
+                "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/",
+                "http://14.139.161.31/OddSem-0822-1122/Hands-On_Machine_Learning_with_Scikit-Learn-Keras-and-TensorFlow-2nd-Edition-Aurelien-Geron.pdf"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Complete ML basics review",
+            "Set up project repository"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Tuesday",
+          "topic": "Data Preprocessing",
+          "resources": [
+            {
+              "title": "Kaggle - Data Cleaning",
+              "links": [
+                "https://www.kaggle.com/learn/data-cleaning",
+                "https://www.reddit.com/r/datascience/comments/jlhqq4/how_do_i_learn_more_about_data_cleaning_wrangling/",
+                "https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization"
+              ]
+            },
+            {
+              "title": "Python for Data Analysis by Wes McKinney",
+              "links": [
+                "https://wesmckinney.com/book/",
+                "https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662",
+                "https://www.reddit.com/r/learnpython/comments/15b2rgp/my_teacher_wants_us_to_read_python_for_data/"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Implement data cleaning pipeline",
+            "Prepare dataset for modeling"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Wednesday",
+          "topic": "Supervised Learning Algorithms",
+          "resources": [
+            {
+              "title": "Pattern Recognition and Machine Learning by Christopher Bishop",
+              "links": [
+                "https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
+                "https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738",
+                "https://www.reddit.com/r/learnmachinelearning/comments/bgsm0c/is_it_still_worthwhile_to_read_pattern/"
+              ]
+            },
+            {
+              "title": "Scikit-Learn Documentation",
+              "links": [
+                "https://scikit-learn.org/",
+                "https://github.com/scikit-learn/scikit-learn",
+                "https://scikit-learn.org/0.21/documentation.html"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Train and evaluate basic models",
+            "Select best model"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Thursday",
+          "topic": "Feature Engineering",
+          "resources": [
+            {
+              "title": "Feature Engineering for Machine Learning by Alice Zheng",
+              "links": [
+                "https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241",
+                "https://www.oreilly.com/library/view/feature-engineering-for/9781491953235/",
+                "https://www.goodreads.com/book/show/31393737-feature-engineering-for-machine-learning"
+              ]
+            },
+            {
+              "title": "Kaggle - Feature Engineering",
+              "links": [
+                "https://www.kaggle.com/learn/feature-engineering",
+                "https://www.datacamp.com/tutorial/feature-engineering-kaggle",
+                "https://www.kaggle.com/code/prashant111/a-reference-guide-to-feature-engineering-methods"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Create new features",
+            "Update model with new features"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Friday",
+          "topic": "Model Evaluation and Hyperparameter Tuning",
+          "resources": [
+            {
+              "title": "Hyperparameter Optimization in Machine Learning",
+              "links": [
+                "https://arxiv.org/abs/2410.22854",
+                "https://www.sciencedirect.com/science/article/pii/S0925231220311693",
+                "https://en.wikipedia.org/wiki/Hyperparameter_optimization"
+              ]
+            },
+            {
+              "title": "Coursera - Improving Deep Neural Networks",
+              "links": [
+                "https://www.coursera.org/learn/deep-neural-network",
+                "https://github.com/amanchadha/coursera-deep-learning-specialization",
+                "https://www.coursera.org/learn/neural-networks-deep-learning"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Implement cross-validation",
+            "Tune hyperparameters"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Saturday",
+          "topic": "Model Deployment Basics",
+          "resources": [
+            {
+              "title": "Flask Documentation",
+              "links": [
+                "https://flask.palletsprojects.com/",
+                "https://www.reddit.com/r/flask/comments/6qxs3s/is_flask_documentation_enough/",
+                "https://flask.palletsprojects.com/en/stable/quickstart/"
+              ]
+            },
+            {
+              "title": "Docker Documentation",
+              "links": [
+                "https://docs.docker.com/",
+                "https://www.docker.com/",
+                "https://docs.docker.com/get-started/"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Create a simple API for the model",
+            "Containerize the application"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Sunday",
+          "topic": "Review and Reflection",
+          "resources": [
+            {
+              "title": "Personal notes",
+              "links": [
+                "https://www.reddit.com/r/PKMS/comments/1c9ic6w/how_do_you_make_use_of_personal_notes/",
+                "https://community.ankihub.net/t/how-to-add-personal-notes-to-the-anking-cards-without-disturbing-ankihub-sync/1424",
+                "https://www.reddit.com/r/devops/comments/jg4f8w/howwhere_do_you_keep_personal_notes_documentation/"
+              ]
+            },
+            {
+              "title": "Discussion forums",
+              "links": [
+                "https://www.reddit.com/r/SeveranceAppleTVPlus/comments/1i37ke9/severance_season_2_discussion_hub/",
+                "https://www.disboards.com/",
+                "https://www.reddit.com/r/RedditAlternatives/comments/1c7dx27/what_forums_are_still_active/"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Summarize key learnings",
+            "Identify areas for improvement"
+          ],
+          "completed": false
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "days": [
+        {
+          "day": "Monday",
+          "topic": "Advanced Machine Learning Topics",
+          "resources": [
+            {
+              "title": "Deep Learning by Ian Goodfellow",
+              "links": [
+                "https://www.deeplearningbook.org/",
+                "https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618",
+                "https://www.reddit.com/r/learnmachinelearning/comments/1521e24/ian_goodfellow_deep_learning_book_how_to_approach/"
+              ]
+            },
+            {
+              "title": "Fast.ai Course",
+              "links": [
+                "https://course.fast.ai/",
+                "https://www.fast.ai/",
+                "https://www.reddit.com/r/learnmachinelearning/comments/vcpk4w/i_highly_and_genuinely_recommend_fastai_course_to/"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Select an advanced topic to explore",
+            "Research applications"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Tuesday",
+          "topic": "Unsupervised Learning",
+          "resources": [
+            {
+              "title": "Clustering and Dimensionality Reduction Techniques",
+              "links": [
+                "https://www.imperva.com/blog/clustering-and-dimensionality-reduction-understanding-the-magic-behind-machine-learning/",
+                "https://www.reddit.com/r/learnmachinelearning/comments/18opovr/difference_between_clustering_and_dimensionality/",
+                "https://stats.stackexchange.com/questions/256172/why-is-dimensionality-reduction-always-done-before-clustering"
+              ]
+            },
+            {
+              "title": "Deep Learning Specialization",
+              "links": [
+                "https://www.coursera.org/specializations/deep-learning",
+                "https://www.deeplearning.ai/courses/deep-learning-specialization/",
+                "https://www.reddit.com/r/deeplearning/comments/1cq1nud/your_thoughts_on_courseras_deep_learning/"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Implement clustering algorithms",
+            "Analyze results"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Wednesday",
+          "topic": "Reinforcement Learning",
+          "resources": [
+            {
+              "title": "Reinforcement Learning: An Introduction by Sutton",
+              "links": [
+                "https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf",
+                "http://incompleteideas.net/book/the-book-2nd.html",
+                "https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262193981"
+              ]
+            },
+            {
+              "title": "OpenAI Gym",
+              "links": [
+                "https://github.com/openai/gym",
+                "https://www.gymlibrary.dev/",
+                "https://arxiv.org/abs/1606.01540"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Create a simple RL environment",
+            "Experiment with RL algorithms"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Thursday",
+          "topic": "System Design Basics",
+          "resources": [
+            {
+              "title": "System Design Primer",
+              "links": [
+                "https://github.com/donnemartin/system-design-primer",
+                "https://www.reddit.com/r/cscareerquestions/comments/5z4kkk/the_system_design_primer_prep_for_the_system/",
+                "https://systemdesignschool.io/primer"
+              ]
+            },
+            {
+              "title": "Grokking the System Design Interview",
+              "links": [
+                "https://www.reddit.com/r/leetcode/comments/zyb0wz/is_grokking_system_design_worth_it/",
+                "https://www.educative.io/courses/grokking-the-system-design-interview",
+                "https://www.designgurus.io/course/grokking-the-system-design-interview"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Study system design principles",
+            "Sketch a simple ML system design"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Friday",
+          "topic": "Distributed Machine Learning",
+          "resources": [
+            {
+              "title": "TensorFlow Distributed Training Guide",
+              "links": [
+                "https://www.tensorflow.org/guide/distributed_training",
+                "https://docs.ray.io/en/latest/train/distributed-tensorflow-keras.html",
+                "https://www.tensorflow.org/tutorials/distribute/keras"
+              ]
+            },
+            {
+              "title": "Apache Spark MLlib",
+              "links": [
+                "https://spark.apache.org/mllib/",
+                "https://www.reddit.com/r/apachespark/comments/hp2kfc/sparks_role_in_a_python_machine_learning_project/",
+                "https://spark.apache.org/docs/latest/ml-guide.html"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Research distributed frameworks",
+            "Implement a simple distributed model"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Saturday",
+          "topic": "CI/CD for ML Models",
+          "resources": [
+            {
+              "title": "MLOps: Model Management and Deployment",
+              "links": [
+                "https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment?view=azureml-api-2",
+                "https://neptune.ai/blog/machine-learning-model-management",
+                "https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning"
+              ]
+            },
+            {
+              "title": "Kubeflow Documentation",
+              "links": [
+                "https://www.kubeflow.org/docs/",
+                "https://charmed-kubeflow.io/docs",
+                "https://www.kubeflow.org/docs/components/pipelines/"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Set up CI/CD pipeline",
+            "Deploy a model using CI/CD"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Sunday",
+          "topic": "Review and Reflection",
+          "resources": [
+            {
+              "title": "Personal notes",
+              "links": [
+                "https://www.reddit.com/r/PKMS/comments/1c9ic6w/how_do_you_make_use_of_personal_notes/",
+                "https://community.ankihub.net/t/how-to-add-personal-notes-to-the-anking-cards-without-disturbing-ankihub-sync/1424",
+                "https://www.reddit.com/r/devops/comments/jg4f8w/howwhere_do_you_keep_personal_notes_documentation/"
+              ]
+            },
+            {
+              "title": "Discussion forums",
+              "links": [
+                "https://www.reddit.com/r/SeveranceAppleTVPlus/comments/1i37ke9/severance_season_2_discussion_hub/",
+                "https://www.disboards.com/",
+                "https://www.reddit.com/r/RedditAlternatives/comments/1c7dx27/what_forums_are_still_active/"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Summarize key learnings",
+            "Identify areas for improvement"
+          ],
+          "completed": false
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "days": [
+        {
+          "day": "Monday",
+          "topic": "Machine Learning in Production",
+          "resources": [
+            {
+              "title": "ML in Production by Martin Fowler",
+              "links": [
+                "https://martinfowler.com/articles/cd4ml.html",
+                "https://www.martinfowler.com/articles/engineering-practices-llm.html",
+                "https://martinfowler.com/articles/continuousIntegration.html"
+              ]
+            },
+            {
+              "title": "Designing Machine Learning Systems",
+              "links": [
+                "https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969",
+                "https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/",
+                "https://www.reddit.com/r/mlops/comments/xwrpvh/has_anyone_read_designing_machine_learning/"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Identify production challenges",
+            "Research best practices"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Tuesday",
+          "topic": "Data Management and Storage",
+          "resources": [
+            {
+              "title": "Data Engineering on Google Cloud",
+              "links": [
+                "https://cloud.google.com/learn/certification/data-engineer",
+                "https://www.coursera.org/specializations/gcp-data-machine-learning",
+                "https://cloud.google.com/learn/training/data-engineering-and-analytics"
+              ]
+            },
+            {
+              "title": "AWS Big Data",
+              "links": [
+                "https://aws.amazon.com/what-is/big-data/",
+                "https://www.netapp.com/blog/aws-cvo-blg-aws-big-data-6-options-you-should-consider/",
+                "https://aws.amazon.com/big-data/datalakes-and-analytics/"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Explore data storage solutions",
+            "Implement a data storage strategy"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Wednesday",
+          "topic": "Ethics in AI",
+          "resources": [
+            {
+              "title": "Weapons of Math Destruction by Cathy O'Neil",
+              "links": [
+                "https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815",
+                "https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction",
+                "https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/"
+              ]
+            },
+            {
+              "title": "AI Ethics Resources",
+              "links": [
+                "https://www.choice360.org/tie-post/resources-for-understanding-the-ethical-implications-of-artificial-intelligence-ai/",
+                "https://www.fast.ai/posts/2018-09-24-ai-ethics-resources.html",
+                "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Research ethical considerations in ML",
+            "Write a reflection on ethics"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Thursday",
+          "topic": "System Design for ML",
+          "resources": [
+            {
+              "title": "System Design for Machine Learning by Google",
+              "links": [
+                "https://developers.google.com/machine-learning/crash-course/production-ml-systems",
+                "https://www.reddit.com/r/learnmachinelearning/comments/1glkkve/faang_ml_system_design_interview_guide/",
+                "https://igotanoffer.com/blogs/tech/google-machine-learning-engineer-interview"
+              ]
+            },
+            {
+              "title": "Designing Data-Intensive Applications",
+              "links": [
+                "https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321",
+                "https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/",
+                "https://www.reddit.com/r/dataengineering/comments/y9ujpz/just_picked_up_the_book_designing_data_intensive/"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Design a scalable ML system",
+            "Create a design document"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Friday",
+          "topic": "Mock Interviews",
+          "resources": [
+            {
+              "title": "Pramp",
+              "links": [
+                "https://www.pramp.com/",
+                "https://www.reddit.com/r/leetcode/comments/1d29tdq/pramp_mock_interview/",
+                "https://dev.to/lico/mock-interview-platform-pramp-review-h7a"
+              ]
+            },
+            {
+              "title": "Interviewing.io",
+              "links": [
+                "https://interviewing.io/",
+                "https://www.reddit.com/r/leetcode/comments/15whloj/has_anyone_had_a_mock_interview_with_interviewio/",
+                "https://interviewing.io/blog/resumes-suck-heres-the-data"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Schedule mock interviews",
+            "Prepare questions and answers"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Saturday",
+          "topic": "Behavioral Interview Preparation",
+          "resources": [
+            {
+              "title": "Cracking the Coding Interview",
+              "links": [
+                "https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850",
+                "https://www.reddit.com/r/leetcode/comments/y7fk15/for_those_who_have_read_cracking_the_coding/",
+                "https://www.crackingthecodinginterview.com/"
+              ]
+            },
+            {
+              "title": "The STAR Method Guide",
+              "links": [
+                "https://www.cell.com/pb-assets/journals/research/cell/methods/Methods_Guide_general-1724873926937.pdf",
+                "https://www.themuse.com/advice/star-interview-method",
+                "https://www.vawizard.org/wiz-pdf/STAR_Method_Interviews.pdf"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Prepare behavioral answers",
+            "Practice with a friend"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Sunday",
+          "topic": "Review and Reflection",
+          "resources": [
+            {
+              "title": "Personal notes",
+              "links": [
+                "https://www.reddit.com/r/PKMS/comments/1c9ic6w/how_do_you_make_use_of_personal_notes/",
+                "https://community.ankihub.net/t/how-to-add-personal-notes-to-the-anking-cards-without-disturbing-ankihub-sync/1424",
+                "https://www.reddit.com/r/devops/comments/jg4f8w/howwhere_do_you_keep_personal_notes_documentation/"
+              ]
+            },
+            {
+              "title": "Discussion forums",
+              "links": [
+                "https://www.reddit.com/r/SeveranceAppleTVPlus/comments/1i37ke9/severance_season_2_discussion_hub/",
+                "https://www.disboards.com/",
+                "https://www.reddit.com/r/RedditAlternatives/comments/1c7dx27/what_forums_are_still_active/"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Summarize key learnings",
+            "Identify areas for improvement"
+          ],
+          "completed": false
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "days": [
+        {
+          "day": "Monday",
+          "topic": "Finalizing Projects",
+          "resources": [
+            {
+              "title": "Personal project repository",
+              "links": [
+                "https://www.reddit.com/r/git/comments/1ea9nkg/using_git_to_manage_personal_projects/",
+                "https://forum.gitlab.com/t/i-cant-seem-to-make-my-project-public/55526",
+                "https://www.reddit.com/r/learnprogramming/comments/1bq7hy9/personal_projects_and_git/"
+              ]
+            },
+            {
+              "title": "Feedback from peers",
+              "links": [
+                "https://www.reddit.com/r/ExperiencedDevs/comments/yy74ks/company_requires_us_to_give_peer_reviews_for/",
+                "https://pubmed.ncbi.nlm.nih.gov/30475655/",
+                "https://www.workhuman.com/blog/peer-review-examples/"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Finalize project implementation",
+            "Document code"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Tuesday",
+          "topic": "Preparing for Technical Interviews",
+          "resources": [
+            {
+              "title": "LeetCode",
+              "links": [
+                "https://leetcode.com/",
+                "https://www.reddit.com/r/learnprogramming/comments/1kwbj94/leetcode_is_not_for_the_majority_of_software/",
+                "https://leetcode.com/problemset/"
+              ]
+            },
+            {
+              "title": "HackerRank",
+              "links": [
+                "https://www.hackerrank.com/",
+                "https://www.reddit.com/r/Python/comments/800ryy/is_it_just_me_or_is_hackerrank_atrocious/",
+                "https://www.hackerrank.com/domains/python"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Practice coding problems",
+            "Focus on ML-related questions"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Wednesday",
+          "topic": "Review System Design Concepts",
+          "resources": [
+            {
+              "title": "System Design Interview by Alex Xu",
+              "links": [
+                "https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF",
+                "https://www.reddit.com/r/developersIndia/comments/1hxd0wc/system_design_book_an_insiders_guide_by_alex_xu/",
+                "https://sodkiewiczm.medium.com/geek-read-system-design-interview-by-alex-xu-a8f32264b45c"
+              ]
+            },
+            {
+              "title": "System Design Patterns",
+              "links": [
+                "https://refactoring.guru/design-patterns",
+                "https://www.reddit.com/r/softwaredevelopment/comments/18q1147/software_design_patterns/",
+                "https://www.hellointerview.com/learn/system-design/in-a-hurry/patterns"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Revise system design principles",
+            "Practice design scenarios"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Thursday",
+          "topic": "Final Mock Interviews",
+          "resources": [
+            {
+              "title": "Pramp",
+              "links": [
+                "https://www.pramp.com/",
+                "https://www.reddit.com/r/leetcode/comments/1d29tdq/pramp_mock_interview/",
+                "https://dev.to/lico/mock-interview-platform-pramp-review-h7a"
+              ]
+            },
+            {
+              "title": "Interviewing.io",
+              "links": [
+                "https://interviewing.io/",
+                "https://www.reddit.com/r/leetcode/comments/15whloj/has_anyone_had_a_mock_interview_with_interviewio/",
+                "https://interviewing.io/blog/resumes-suck-heres-the-data"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Conduct final mock interviews",
+            "Gather feedback"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Friday",
+          "topic": "Relaxation and Mental Preparation",
+          "resources": [
+            {
+              "title": "Meditation Apps",
+              "links": [
+                "https://www.nytimes.com/wirecutter/reviews/best-meditation-apps/",
+                "https://www.verywellmind.com/best-meditation-apps-4767322",
+                "https://www.reddit.com/r/Meditation/comments/14ihf23/best_meditation_app/"
+              ]
+            },
+            {
+              "title": "Relaxation Techniques",
+              "links": [
+                "https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/relaxation-technique/art-20045368",
+                "https://www.health.harvard.edu/mind-and-mood/six-relaxation-techniques-to-reduce-stress",
+                "https://www.helpguide.org/mental-health/stress/relaxation-techniques-for-stress-relief"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Engage in relaxation activities",
+            "Prepare mentally for interviews"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Saturday",
+          "topic": "Interview Day Prep",
+          "resources": [
+            {
+              "title": "Personal checklist",
+              "links": [
+                "https://blog.asmartbear.com/personal-checklist/",
+                "https://community.atlassian.com/forums/Confluence-questions/Is-it-possible-to-create-a-personal-checklist/qaq-p/895769",
+                "https://www.birdforum.net/threads/my-personal-bird-taxonomic-checklist-project.459943/"
+              ]
+            },
+            {
+              "title": "Interview attire",
+              "links": [
+                "https://www.reddit.com/r/jobs/comments/1k9h0p5/dressing_for_an_interview_in_2025_what_are_you/",
+                "https://www.indeed.com/career-advice/interviewing/how-to-dress-for-a-job-interview",
+                "https://www.reddit.com/r/Millennials/comments/1g4b3sw/dressing_for_an_interview/"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Prepare all materials needed",
+            "Set up interview environment"
+          ],
+          "completed": false
+        },
+        {
+          "day": "Sunday",
+          "topic": "Final Review",
+          "resources": [
+            {
+              "title": "Personal notes",
+              "links": [
+                "https://www.reddit.com/r/PKMS/comments/1c9ic6w/how_do_you_make_use_of_personal_notes/",
+                "https://community.ankihub.net/t/how-to-add-personal-notes-to-the-anking-cards-without-disturbing-ankihub-sync/1424",
+                "https://www.reddit.com/r/devops/comments/jg4f8w/howwhere_do_you_keep_personal_notes_documentation/"
+              ]
+            },
+            {
+              "title": "Discussion forums",
+              "links": [
+                "https://www.reddit.com/r/SeveranceAppleTVPlus/comments/1i37ke9/severance_season_2_discussion_hub/",
+                "https://www.disboards.com/",
+                "https://www.reddit.com/r/RedditAlternatives/comments/1c7dx27/what_forums_are_still_active/"
+              ]
+            }
+          ],
+          "project_milestones": [
+            "Review key concepts",
+            "Ensure readiness for interviews"
+          ],
+          "completed": false
+        }
+      ]
+    }
+  ]
+}
